@@ -103,12 +103,12 @@ body {
     }
   }
     
-  /* Container media queries 
+  /* Container media queries */
   @media (min-width: 500px) {
     .container {
       width: 400px;
     }
-  }*/
+  }
    
   @media (min-width: 800px) {
     .container {
@@ -116,8 +116,8 @@ body {
     }
   }
   
- /* @media (min-width: 1000px) {
+  @media (min-width: 1000px) {
     .container {
       width: 800px;
     }
-  }*/
+  }
