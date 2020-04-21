@@ -102,7 +102,7 @@ body {
     }
   }
     
-  /* Container media queries */
+  /* Container media queries 
   @media (min-width: 500px) {
     .container {
       width: 400px;
@@ -119,4 +119,4 @@ body {
     .container {
       width: 800px;
     }
-  }
+  }*/
