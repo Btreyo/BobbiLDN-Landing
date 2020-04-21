@@ -107,15 +107,15 @@ body {
     .container {
       width: 400px;
     }
-  }
+  }*/
    
   @media (min-width: 800px) {
     .container {
-      width: 600px;
+      width: auto;
     }
   }
   
-  @media (min-width: 1000px) {
+ /* @media (min-width: 1000px) {
     .container {
       width: 800px;
     }
