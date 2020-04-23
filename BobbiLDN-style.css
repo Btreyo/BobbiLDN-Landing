@@ -31,10 +31,7 @@ body {
     margin: auto;
     text-align: center;
   }
-    .centerImage {
-    text-align:center;
-    display:block;
-    }
+
 /* HEADER */
   .header {
     background-color: #ffffff;
