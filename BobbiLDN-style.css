@@ -25,7 +25,7 @@ a:hover           { color: #B5ACAB }
   background-position: center;
   padding: 0px 0;
   text-align: center; }
-.container          { text-align: center;
+.container          { 
   background-position: center;
   margin: auto;
   width: 800px; }
