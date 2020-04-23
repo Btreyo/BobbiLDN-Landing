@@ -68,6 +68,7 @@
                               .card-white { width: auto; } } 
     
 /* RESPONSIVE MEDIA QUERIES: CONTAINER */
+  @media (min-width: 400px)  {.container  { width: 300px; } }  
   @media (min-width: 500px)  {.container  { width: 400px; } }
   @media (min-width: 800px)  {.container  { width: 600px; } }
   @media (min-width: 1000px) {.container  { width: 800px; } }
