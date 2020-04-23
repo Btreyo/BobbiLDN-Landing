@@ -42,8 +42,7 @@
   .cards              { display: grid;
                         grid-template-columns: 1fr 1fr;
                         column-gap: 30px; }
-  .card-white         { text-align: center;
-                        background: white;
+  .card-white         { background: white;
                         box-shadow: 0 0 16px rgba(0,0,0,0.1);
                         border-radius: 4px;
                         width: 400px;
