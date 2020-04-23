@@ -27,7 +27,7 @@ a:hover           { color: #B5ACAB }
   text-align: center; }
 .container          { 
   margin: auto;
-  width: 800px; }
+  width: auto; }
 /* CLASSES: BUTTONS */
 .button-rose        { background-color: #D0C4C5;
   color: white;
