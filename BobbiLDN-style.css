@@ -112,7 +112,7 @@ body {
    
   @media (min-width: 800px) {
     .container {
-      width: auto;
+      width: 600px;
     }
   }
   
